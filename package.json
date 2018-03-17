@@ -1,0 +1,14 @@
+{
+  "name": "WynncraftWar",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "keywords": [],
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Courir",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  }
+}
